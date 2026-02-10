@@ -1,16 +1,3 @@
-# myapp
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# IAMoviles_Act5_appBarCard_Gpo_6I
+Propiedades de AppBar 6I
+<img width="1235" height="691" alt="image" src="https://github.com/user-attachments/assets/066f4659-d962-468c-83f6-377fb0b03d43" />
